@@ -174,7 +174,7 @@ set fo+=t
 :nnoremap <CR> G
 
 "" nvim Specific Changes 
-let g:python3_host_prog = '/usr/local/opt/python/bin/python3.7'
+"" let g:python3_host_prog = '/usr/local/opt/python/bin/python3.7'
 
 "" Disable syntax highlighting for TODO and NOTE. I don't like it.
 "" NOTE: This doesn't perfectly, but at least gets rid of the bright yellow.
